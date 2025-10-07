@@ -1,0 +1,20 @@
+fastapi
+uvicorn
+python-multipart
+requests
+python-dotenv
+streamlit
+langgraph   # your installed langgraph package
+langchain-openai  # or the actual package you use that provides AzureOpenAIEmbeddings, AzureChatOpenAI
+langchain-postgres
+langchain-core
+psycopg2-binary
+pgvector
+aiofiles
+azure-ai-documentintelligence
+python-magic
+
+
+
+
+
